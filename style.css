@@ -1,0 +1,18 @@
+body{
+  font-family: Roboto;
+  color: #FC17E1;
+  text-align: center;
+  background-color: #C3BCB1;
+}
+h1{
+ font-size: 30px;
+}
+ul{
+  font-size: 20px;
+  font-style: italic;
+}
+img{
+  border-radius: 10px;
+  height: 368px;
+  width: 640px;
+}
